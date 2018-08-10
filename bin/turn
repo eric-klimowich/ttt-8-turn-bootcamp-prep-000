@@ -7,4 +7,5 @@ puts "Welcome to Tic Tac Toe!"
 
 display_board(board)
 
+print "Please enter 1-9:"
 turn(board)
